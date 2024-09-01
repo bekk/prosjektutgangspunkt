@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.card {
+  padding: 2em;
+}
+
+.code {
+  font-weight: 700;
+  font-family: var(--font-mono);
+}
+
+.link {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+.link:hover {
+  color: #535bf2;
+}
