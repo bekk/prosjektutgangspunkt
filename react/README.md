@@ -8,7 +8,7 @@ Om du ønsker å bruke dette utgangspunktet kan du kjøre følgende kommando
 
 ```bash
 # react
-npx degit github:bekk/flyt/react flyt-react
+npx degit github:bekk/prosjektutgangspunkt/react react-prosjekt
 ```
 
 Om du ønsker å ta utgangspunkt i den offisielle malen for React-prosjekter bygget med Vite, kan du kjøre følgende kommando

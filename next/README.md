@@ -8,7 +8,7 @@ Om du ønsker å bruke dette utgangspunktet kan du kjøre følgende kommando
 
 ```bash
 # next
-npx degit github:bekk/flyt/next flyt-next
+npx degit github:bekk/prosjektutgangspunkt/next next-prosjekt
 ```
 
 Om du ønsker å ta utgangspunkt i den offisielle malen for Next-prosjekter, kan du kjøre følgende kommando

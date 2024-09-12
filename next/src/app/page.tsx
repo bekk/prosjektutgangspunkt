@@ -6,7 +6,10 @@ export default function Home() {
         <h1>Velkommen! 👋</h1>
         <p>
           Du kan se koden for dette prosjektet{" "}
-          <a className={styles.link} href="https://github.com/bekk/flyt">
+          <a
+            className={styles.link}
+            href="https://github.com/bekk/prosjektutgangspunkt"
+          >
             i repoet på GitHub
           </a>
         </p>

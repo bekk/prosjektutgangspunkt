@@ -1,4 +1,4 @@
-# Flyt - Prosjektutgangspunkt 🏄
+# Prosjektutgangspunkt 🏄
 
 Dette er et repo med ulike tomme prosjekter som du kan bruke som et utgangspunkt til ditt neste hobbyprosjekt!
 
@@ -52,25 +52,25 @@ Nå som vi har Node.js installert, kan vi sette i gang!
 
    ```bash
     # react
-    npx degit github:bekk/flyt/react flyt-react
+    npx degit github:bekk/prosjektutgangspunkt/react react-prosjekt
 
    ```
 
    ```bash
     # next
-    npx degit github:bekk/flyt/next flyt-next
+    npx degit github:bekk/prosjektutgangspunkt/next next-prosjekt
    ```
 
    ```bash
     # express
-    npx degit github:bekk/flyt/express flyt-express
+    npx degit github:bekk/prosjektutgangspunkt/express express-prosjekt
    ```
 
-3. Opprett et repository på GitHub via [github.com/new](https://github.com/new). Kall den hva du vil, i dette eksempelet kaller vi den bare `flyt-react`
+3. Opprett et repository på GitHub via [github.com/new](https://github.com/new). Kall den hva du vil, i dette eksempelet kaller vi den bare `react-prosjekt`
 4. Koble sammen lokal kode med GitHub
-   - Naviger inn i prosjektet vi lastet ned i _Steg 2_. I eksempelet har vi lastet ned `react`, så vi skal navigere inn i `flyt-react`
+   - Naviger inn i prosjektet vi lastet ned i _Steg 2_. I eksempelet har vi lastet ned `react`, så vi skal navigere inn i `react-prosjekt`
      ```bash
-     cd flyt-react
+     cd react-prosjekt
      ```
    - Initier Git i prosjektet.
      ```bash
@@ -81,9 +81,9 @@ Nå som vi har Node.js installert, kan vi sette i gang!
      git add .
      git commit -m "Initial commit"
      ```
-   - Sett opp det nye GitHub-repoet som remote. I dette eksempelet opprettet brukeren med brukernavn `sivertschou` repoet i forrige steg, så erstatt `sivertschou` med ditt GitHub-brukernavn, og erstatt `flyt-react` med navnet på repoet ditt
+   - Sett opp det nye GitHub-repoet som remote. I dette eksempelet opprettet brukeren med brukernavn `sivertschou` repoet i forrige steg, så erstatt `sivertschou` med ditt GitHub-brukernavn, og erstatt `react-prosjekt` med navnet på repoet ditt
      ```bash
-     git remote add origin git@github.com:sivertschou/flyt-react.git
+     git remote add origin git@github.com:sivertschou/react-prosjekt.git
      ```
    - Dytt opp koden
      ```bash
